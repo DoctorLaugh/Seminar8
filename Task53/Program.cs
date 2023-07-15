@@ -23,10 +23,9 @@ void PrintArray(int[,] inArray)
 }
 void NewArray(int[,] inArray)
 {
-    int temp = 0;
     for (int i = 0; i < inArray.GetLength(1); i++)
     {
-        temp = inArray[0, i];
+        int temp = inArray[0, i];
         inArray[0, i] = inArray[(inArray.GetLength(0) - 1), i];
         inArray[(inArray.GetLength(0) - 1), i] = temp;
     }
