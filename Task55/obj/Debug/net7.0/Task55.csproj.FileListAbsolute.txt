@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\Seminar8\Task55\obj\Debug\net7.0\Task55.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\Seminar8\Task55\obj\Debug\net7.0\Task55.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Seminar8\Task55\obj\Debug\net7.0\Task55.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Seminar8\Task55\obj\Debug\net7.0\Task55.AssemblyInfo.cs
+D:\GeekBrains\C#\Seminar8\Task55\obj\Debug\net7.0\Task55.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Seminar8\Task55\bin\Debug\net7.0\Task55.exe
+D:\GeekBrains\C#\Seminar8\Task55\bin\Debug\net7.0\Task55.deps.json
+D:\GeekBrains\C#\Seminar8\Task55\bin\Debug\net7.0\Task55.runtimeconfig.json
+D:\GeekBrains\C#\Seminar8\Task55\bin\Debug\net7.0\Task55.dll
+D:\GeekBrains\C#\Seminar8\Task55\bin\Debug\net7.0\Task55.pdb
+D:\GeekBrains\C#\Seminar8\Task55\obj\Debug\net7.0\Task55.dll
+D:\GeekBrains\C#\Seminar8\Task55\obj\Debug\net7.0\refint\Task55.dll
+D:\GeekBrains\C#\Seminar8\Task55\obj\Debug\net7.0\Task55.pdb
+D:\GeekBrains\C#\Seminar8\Task55\obj\Debug\net7.0\Task55.genruntimeconfig.cache
+D:\GeekBrains\C#\Seminar8\Task55\obj\Debug\net7.0\ref\Task55.dll
