@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\Seminar8\Task59\bin\Debug\net7.0\Task59.exe
+D:\GeekBrains\C#\Seminar8\Task59\bin\Debug\net7.0\Task59.deps.json
+D:\GeekBrains\C#\Seminar8\Task59\bin\Debug\net7.0\Task59.runtimeconfig.json
+D:\GeekBrains\C#\Seminar8\Task59\bin\Debug\net7.0\Task59.dll
+D:\GeekBrains\C#\Seminar8\Task59\bin\Debug\net7.0\Task59.pdb
+D:\GeekBrains\C#\Seminar8\Task59\obj\Debug\net7.0\Task59.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\Seminar8\Task59\obj\Debug\net7.0\Task59.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Seminar8\Task59\obj\Debug\net7.0\Task59.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Seminar8\Task59\obj\Debug\net7.0\Task59.AssemblyInfo.cs
+D:\GeekBrains\C#\Seminar8\Task59\obj\Debug\net7.0\Task59.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Seminar8\Task59\obj\Debug\net7.0\Task59.dll
+D:\GeekBrains\C#\Seminar8\Task59\obj\Debug\net7.0\refint\Task59.dll
+D:\GeekBrains\C#\Seminar8\Task59\obj\Debug\net7.0\Task59.pdb
+D:\GeekBrains\C#\Seminar8\Task59\obj\Debug\net7.0\Task59.genruntimeconfig.cache
+D:\GeekBrains\C#\Seminar8\Task59\obj\Debug\net7.0\ref\Task59.dll
